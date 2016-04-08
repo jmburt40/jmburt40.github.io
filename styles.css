@@ -1,0 +1,27 @@
+body{
+padding-top: 20px; 
+padding-bottom: 20px;
+}
+.navbar{ margin-bottom: 20px;
+ }
+
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.navbar-brand {
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+
+
+.jumbotron{
+    background-color:#2f4f4f;
+    text-align:center;
+}
